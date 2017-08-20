@@ -14,4 +14,5 @@ import { StocksComponent } from './stocks.component';
 export class AppComponent {
   fname = 'Jon';
   lname = 'Ambulance';
+  today = new Date();
 }
